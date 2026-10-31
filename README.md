@@ -2,11 +2,11 @@
 
 面向苹果 M 系列 Mac 的口播粗剪工作台，将本机素材整理为可继续编辑的剪映草稿。
 
-当前版本：**0.17.0-preview.2（预览版）**。声音验收尚未完成，生成后请人工核对音频接续、字幕与内容取舍。
+当前版本：**0.17.0-preview.3（预览版）**。声音验收尚未完成，生成后请人工核对音频接续、字幕与内容取舍。
 
 ## 下载与安装
 
-1. [下载当前安装包](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/download/v0.17.0-preview.2/workbench-0.17.0-preview.2-macos-arm64.zip)，双击解压。
+1. [下载当前安装包](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/download/v0.17.0-preview.3/workbench-0.17.0-preview.3-macos-arm64.zip)，双击解压。
 2. 在 Finder（访达）中进入个人文件夹，将“剪辑工作台.app”放入里面的 `Applications` 文件夹；没有该文件夹可以新建。使用个人应用目录便于后续更新。
 3. 双击打开。此版本未使用 Apple 开发者账号，也未做 Apple 公证。如果 macOS 阻止打开，在确认文件来自本仓库后，按系统提示进入“系统设置 → 隐私与安全性 → 仍要打开”。不需要关闭系统安全保护。
 4. 首次启动自动下载三个离线组件，总计约 3 GB。程序会检查下载摘要并保留组件；网络中断后重新打开可重试。建议首次准备前至少空出 10 GB 磁盘空间。
@@ -29,9 +29,9 @@
 
 ## 发布文件
 
-- [版本记录与安装包](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/tag/v0.17.0-preview.2)
-- [校验值](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/download/v0.17.0-preview.2/SHA256SUMS.md)
-- [第三方组件说明](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/download/v0.17.0-preview.2/THIRD_PARTY_NOTICES.md)
+- [版本记录与安装包](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/tag/v0.17.0-preview.3)
+- [校验值](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/download/v0.17.0-preview.3/SHA256SUMS.md)
+- [第三方组件说明](https://github.com/xupengcheng708-ux/xugongzi-workbench-releases/releases/download/v0.17.0-preview.3/THIRD_PARTY_NOTICES.md)
 
 安装包及更新列表由同一发布密钥签名；离线组件另有应用内固定的 SHA-256 校验。该机制用于验证发布来源和文件完整性，不代表 Apple 公证。
 
